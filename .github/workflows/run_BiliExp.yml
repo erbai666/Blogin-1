@@ -14,7 +14,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
       with: 
-        ref: BiliExp-Actions
+        ref: Blogin-1
 
 #    - uses: actions/cache@v2
 #      with:
